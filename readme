@@ -364,3 +364,78 @@ Industry-Specific Solutions
 Pre-configured templates and policies for manufacturing, healthcare, logistics, retail, and food service operations
 
 Implement proven solutions tailored to your industry's unique challenges
+
+
+
+upasthithiai  
+
+📜 Description
+
+The upasthithiai is a web application built using Flask that allows you to manage employees, their shifts, attendance, and tasks efficiently. Users can sign up, log in, and access different functionalities to maintain employee records and statistics.
+
+🌟 Features
+
+User Authentication: Secure login and signup functionality.
+Employee Management: Add, view, and delete employee records.
+Shift Management: Assign and manage employee shifts.
+Attendance Tracking: Record and manage employee attendance.
+Task Management: Create, view, and delete tasks assigned to employees.
+Statistics Dashboard: View overall statistics on employees, tasks, shifts, and attendance.
+Responsive Design: User-friendly interface accessible on various devices.
+📷 Screenshots
+
+Home
+
+home
+
+Login
+
+login
+
+Sign Up
+
+sign up
+
+Manage Employee
+
+manage employee
+
+Shift Scheduling
+
+shift
+
+Attendance Tracking
+
+attendance
+
+Task Assignment
+
+task
+
+Performance Dashboard
+
+dashboard
+
+🔧 Tech Stack
+
+Backend: Flask
+Database: SQLite
+Frontend: HTML, CSS, Bootstrap
+Security: Werkzeug for password hashing
+🚀 Installation and Usage
+
+Clone the repository:
+
+git clone https://github.com/nj/upasthithiai.git
+Clone the repository:
+
+cd workforce-management-system
+Install the required packages:
+
+pip install -r requirements.txt
+Run the application:
+
+python app.py
+Access the application: Open your web browser and go to http://127.0.0.1:5000.
+
+
